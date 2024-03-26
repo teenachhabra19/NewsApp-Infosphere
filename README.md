@@ -1,5 +1,5 @@
 
-Infosphere News App
+Infosphere News App:
 Infosphere is a comprehensive news application that provides users with up-to-date news articles across various categories, including sports, entertainment, technology, and more. Leveraging the power of the NewsAPI, Infosphere fetches news data and presents it to users in an intuitive and user-friendly interface.
 
 Key Features:
